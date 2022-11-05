@@ -1,7 +1,7 @@
 import json
 
 import requests
-from camille import Match, getMatch
+from kayle import Match, getMatch
 import pantheon
 import asyncio
 

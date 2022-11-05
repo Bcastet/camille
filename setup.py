@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name="camille",
-    version="0.1.0",
+    name="kayle",
+    version="0.3.0",
     description="Riot Games API Match wrapper for async requests",
     url="https://github.com/Bcastet/camille",
     author='Benjamin Castet',
     author_email='benjamin.castet@gmail.com',
     license='BSD 2-clause',
-    packages=['camille'],
+    packages=['kayle'],
     install_requires=["munch==2.5.0",
                       "pantheon==2.0.0",
                       "Pillow==9.3.0",
