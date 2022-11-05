@@ -1,6 +1,5 @@
 from datetime import datetime, timedelta
-from ddragon.factory import ddragon_factory
-
+from .ddragon.factory import ddragon_factory
 """
 Instantiates Match class from match data
 """
